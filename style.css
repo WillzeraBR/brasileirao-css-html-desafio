@@ -1,0 +1,61 @@
+#titulo{
+    text-align: center;
+    color:rgb(44, 241, 44);
+    background-color : black;
+    border-radius: 30px;
+}
+
+body{
+    background-color: gainsboro;
+}
+
+.primeiraLinha {
+    color: rgb(43, 255, 1);
+    background-color: darkgreen;
+    font-size: larger;
+}  
+        
+tfoot {
+    color: rgb(43, 255, 1);
+    background-color: darkgreen;
+}
+
+.fasedegrupo {
+    color: white;
+    background-color:blue ;
+    padding:10px 20px 19px;
+}
+
+.qualificatorias {
+    color: white;
+    background-color: orange;
+}
+
+.grupoSulAmericana {
+    color: white;
+    background-color:yellowgreen; 
+}
+
+.permanencia {
+    color:white;
+    background-color: lightgrey;
+}
+
+.rebaixamento {
+    background-color: red;
+    color: white;
+}
+
+.questionario {
+    border: 3px solid black;
+    padding: 10px;
+    background-color: white;
+}
+
+
+#botao{
+    color:white;
+    font-size: 14px;
+    background-color:rgb(0, 183, 255);
+    
+}
